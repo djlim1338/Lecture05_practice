@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">5주차 강의 연습문제</string>
+
+    <string name="main_btn_prac4">연습문제 4번</string>
+    <string name="main_btn_prac5">연습문제 5번</string>
+    <string name="main_btn_prac6">연습문제 6번</string>
+</resources>
