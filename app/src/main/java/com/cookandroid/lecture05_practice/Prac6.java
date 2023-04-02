@@ -3,7 +3,6 @@ package com.cookandroid.lecture05_practice;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.text.Layout;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.Toast;
