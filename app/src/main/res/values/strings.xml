@@ -4,4 +4,12 @@
     <string name="main_btn_prac4">연습문제 4번</string>
     <string name="main_btn_prac5">연습문제 5번</string>
     <string name="main_btn_prac6">연습문제 6번</string>
+
+    <string name="prac5_btn_base">기준위젯</string>
+    <string name="prac5_btn1">1번</string>
+    <string name="prac5_btn2">2번</string>
+    <string name="prac5_btn3">3번</string>
+    <string name="prac5_btn4">4번</string>
+    <string name="prac5_btn5">5번</string>
+    <string name="prac5_btn6">6번</string>
 </resources>

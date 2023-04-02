@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.cookandroid.lecture05_practice'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.cookandroid.lecture05_practice"

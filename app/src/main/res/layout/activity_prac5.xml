@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Prac5">
+
+    <Button
+        android:id="@+id/prac6BtnBase"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/prac5_btn_base"/>
+
+    <Button
+        android:id="@+id/prac6Btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/prac6BtnBase"
+        android:layout_alignParentLeft="true"
+        android:text="@string/prac5_btn1" />
+
+    <Button
+        android:id="@+id/prac6Btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/prac6BtnBase"
+        android:layout_alignParentLeft="true"
+        android:text="@string/prac5_btn2" />
+
+    <Button
+        android:id="@+id/prac6Btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/prac6BtnBase"
+        android:layout_alignParentBottom="true"
+        android:text="@string/prac5_btn3" />
+
+    <Button
+        android:id="@+id/prac6Btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/prac6BtnBase"
+        android:layout_alignParentTop="true"
+        android:text="@string/prac5_btn4" />
+
+    <Button
+        android:id="@+id/prac6Btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/prac6BtnBase"
+        android:layout_alignParentBottom="true"
+        android:text="@string/prac5_btn5" />
+
+    <Button
+        android:id="@+id/prac6Btn6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/prac6BtnBase"
+        android:layout_alignParentRight="true"
+        android:text="@string/prac5_btn6" />
+
+</RelativeLayout>
